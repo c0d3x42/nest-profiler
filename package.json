@@ -1,0 +1,27 @@
+{
+  "name": "@c0d3x42/nest-profiler",
+  "version": "0.0.1",
+  "description": "profiler for nestjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "author": "Vince Scott",
+  "license": "ISC",
+  "peerDependencies": {
+    "@nestjs/common": "^6.0.0",
+    "@nestjs/core": "^6.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "morgan": "^1.9.1",
+    "nest-morgan": "^1.0.1",
+    "v8-profiler-next": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/morgan": "^1.7.37",
+    "typescript": "^3.5.3"
+  },
+  "main": "index.js"
+}
