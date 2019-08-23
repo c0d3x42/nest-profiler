@@ -1,6 +1,6 @@
 {
   "name": "@c0d3x42/nest-profiler",
-  "version": "0.0.2",
+  "version": "0.0.3-0",
   "description": "profiler for nestjs",
   "scripts": {
     "build": "tsc"
