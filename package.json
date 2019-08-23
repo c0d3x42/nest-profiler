@@ -27,5 +27,5 @@
     "@types/morgan": "^1.7.37",
     "typescript": "^3.5.3"
   },
-  "main": "index.js"
+  "main": "dist/index.js"
 }
